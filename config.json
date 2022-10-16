@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6285806819447@s.whatsapp.net"],
+  "ownerName": ["SENO CAKEPP"],
+  "botName": "Botnya ceno",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/senoooo19",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
